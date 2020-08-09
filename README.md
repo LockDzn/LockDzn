@@ -20,4 +20,6 @@ My name is Ryan Souza, React junior developer. Always looking for a way to const
 - [Discord bot](https://github.com/LockDzn/Kally):
   Bot for discord to moderate guilds (using discord.js 11, version has been deprecated)
 - [NLW #1](https://github.com/LockDzn/next-level-week-01):
-  Project done Next Level Week by RocketSeat
+  Project done Next Level Week #1 by RocketSeat
+- [Proffy](https://github.com/LockDzn/proffy):
+  Project done Next Level Week #2 by RocketSeat
