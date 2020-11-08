@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=%3E&message=follow&color=1da1f2&style=flat-square&logo=twitter">
 </a>
 <a href="https://www.linkedin.com/in/ryan-souza-428a951a5/">
-  <img src="https://img.shields.io/static/v1?label=%3E&message=twitch&color=0077b5&style=flat-square&logo=linkedin">
+  <img src="https://img.shields.io/static/v1?label=%3E&message=linkedin&color=0077b5&style=flat-square&logo=linkedin">
 </a>
 <a href="https://www.twitch.tv/nuloki_">
   <img src="https://img.shields.io/static/v1?label=%3E&message=twitch&color=blueviolet&style=flat-square&logo=twitch">
