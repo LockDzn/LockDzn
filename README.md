@@ -23,3 +23,5 @@ My name is Ryan Souza, React junior developer. Always looking for a way to const
   Project done Next Level Week #1 by RocketSeat
 - [Proffy](https://github.com/LockDzn/proffy):
   Project done Next Level Week #2 by RocketSeat
+  
+  ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=lockdzn&show_icons=true&theme=omni)
